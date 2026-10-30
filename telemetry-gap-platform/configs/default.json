@@ -1,0 +1,14 @@
+{
+  "gap_noisy_or_weight": 0.7,
+  "gap_tau": 0.5,
+  "fixed_gap_seconds": 3.2,
+  "rarity_threshold": 0.05,
+  "link_window": 30.0,
+  "mechanisms": ["uniform", "burst", "sampling", "crash"],
+  "rates": [0.1, 0.2, 0.3, 0.5],
+  "seeds": [1, 2, 3, 4, 5],
+  "synthetic_benign_sessions": 25,
+  "synthetic_attacks": 5,
+  "synthetic_noise_rate": 0.02,
+  "base_seed": 42
+}

@@ -1,0 +1,14 @@
+# Core Numerical & Graph Dependencies
+numpy>=1.24.0
+networkx>=3.0
+matplotlib>=3.7.0
+
+# Deep Learning & Dataset Parsing (DARPA TC E3 CADETS Parquet)
+torch>=2.0.0
+pyarrow>=12.0.0
+
+# Interactive Web Application
+flask>=2.3.0
+
+# Testing & Verification
+pytest>=7.0.0
